@@ -1,4 +1,9 @@
 import tkinter as tk
+import lista
+import diccionarios
+import superficieLimpiar
+import script
+import tupla
 
 window = tk.Tk()
 window.title("Hello wold")
